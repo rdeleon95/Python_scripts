@@ -1,0 +1,14 @@
+functions on python
+
+type
+sign
+
+some escape sentences
+
+\n nueva linea
+\t tab
+\\ barra inversa
+\' comilla simple 
+\ooo caracter octal
+\xhh caracter hexadecimal 8 bits
+\uxxxx caracter hexadecimal 16 bits

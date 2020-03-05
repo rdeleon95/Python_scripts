@@ -1,0 +1,1 @@
+a,b,c = eval(input ("Introduce los valores de las variables:"))

@@ -1,0 +1,7 @@
+#OPERADORES CON CADENAS 
+a = "01012341"
+
+ROTE = a*3
+
+
+print(ROTE)
